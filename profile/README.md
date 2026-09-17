@@ -92,6 +92,7 @@ The people actually turning plans into events, repos, and shipped projects — g
 * Agam Jot Singh
 * Ariyan Bhakat
 * Ritika Sewaramani
+* Vaibhav Chaudhary
 
 **🌐 Dev**
 * Gatik Gupta
